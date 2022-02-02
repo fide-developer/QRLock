@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">QRLock-Project</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="qrLock">QRLock</string>
+    <string name="stats_checkData">Sedang memeriksa data ...</string>
+    <string name="stats_redirectLogin">Sedang memuat halaman login . . .</string>
+    <string name="stats_loadData">Sedang memuat data . . .</string>
+    <string name="RetypePassword">Konfirmasi Password</string>
+    <string name="password">Password</string>
+    <string name="email">Alamat Email</string>
+    <string name="hint_email">Masukkan Email Anda</string>
+    <string name="hint_password">Masukkan Kata Sandi Anda</string>
+    <string name="hint_reTypePassword">Ketik Ulang Password Anda</string>
+    <string name="button_register">Buat Akun</string>
+    <string name="btn_login">Masuk</string>
+    <string name="btn_openRegister">Buat Akun /</string>
+    <string name="titleRegister">Buat Akun</string>
+    <string name="err_emailNull">Email tidak boleh kosong !</string>
+    <string name="err_passwordNull">Password tidak boleh kosong !</string>
+    <string name="err_rePasswordNull">Password tidak boleh kosong !</string>
+    <string name="err_emailExist">Email yang anda gunakan sudah terdaftar !</string>
+    <string name="err_emailNotValid">Mohon untuk menggunakan format email dengan benar. e.g. example@email.com</string>
+    <string name="err_passwordNotMatch">Password yang anda berikan tidak cocok !</string>
+    <string name="err_emailNotFound">Email belum terdaftar !</string>
+    <string name="err_wrongPassword">Password salah !</string>
+    <string name="btn_openPintu">Buka Pintu</string>
+    <string name="btn_closePintu">Tutup Pintu</string>
+    <string name="btn_hakAkses">Lihat Hak Akses</string>
+    <string name="logout">Keluar</string>
+    <string name="minta_hak_akses">Minta Hak Akses</string>
+    <string name="menuHakAkses">Hak Akses</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="titleOpenPintu">Buka Pintu</string>
+    <string name="channel_name">notif_pintu</string>
+    <string name="channel_description">notifikasi pintu</string>
+    <string name="notifTitle_pintu_locked">QR - Lock</string>
+    <string name="notif_pintu_locked">Pintu Terkunci</string>
+    <string name="notifTitle_pintu_unlocked">QR - Lock</string>
+    <string name="notif_pintu_unlocked">Pintu Terbuka</string>
+    <string name="btn_manageHakAkses">Kelola Hak Akses</string>
+    <string name="list_hak_akses">List Hak Akses</string>
+    <string name="request_hak_akses">Permintaan Hak Akses</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titleListHakAkses">List Hak Akses User</string>
+    <string name="titleReqHakAkses">List Permintaan Hak Akses</string>
+    <string name="x">X</string>
+    <string name="pintu_10">Pintu 10</string>
+    <string name="pintu_9">Pintu 9</string>
+    <string name="pintu_8">Pintu 8</string>
+    <string name="pintu_7">Pintu 7</string>
+    <string name="pintu_6">Pintu 6</string>
+    <string name="pintu_5">Pintu 5</string>
+    <string name="pintu_4">Pintu 4</string>
+    <string name="pintu_3">Pintu 3</string>
+    <string name="pintu_2">Pintu 2</string>
+    <string name="pintu_1">Pintu 1</string>
+    <string name="selesai">Selesai</string>
+    <string name="cara_scan_buka_pintu">Scan Kode QR yang terdapat pada pintu untuk membuka kunci pintu !</string>
+</resources>

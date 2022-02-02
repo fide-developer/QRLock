@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1004468641615",
+    "firebase_url": "https://qrlock-project.firebaseio.com",
+    "project_id": "qrlock-project",
+    "storage_bucket": "qrlock-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004468641615:android:227f0cfca3c4dbad",
+        "android_client_info": {
+          "package_name": "com.ojanodev.kotlin.qrlock_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004468641615-62iqp8ni700e52olh71v7dm923fjhuv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRMSgQh5YMfJqKi8NWsNXAqTofWl8CfWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004468641615-62iqp8ni700e52olh71v7dm923fjhuv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

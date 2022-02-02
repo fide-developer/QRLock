@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/listHakAkses"
+            android:title="@string/list_hak_akses"
+            app:showAsAction="ifRoom" />
+    <item
+            android:id="@+id/reqHakAkses"
+            android:title="@string/request_hak_akses"
+            app:showAsAction="ifRoom" />
+</menu>
